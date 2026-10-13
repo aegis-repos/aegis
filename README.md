@@ -1,2 +1,0 @@
-# rescuegrid
-RescueGrid Logistics
